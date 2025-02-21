@@ -1,4 +1,10 @@
-<img align="center" height="140" fetchpriority="high" loading="auto" src="https://i.pinimg.com/originals/ed/ec/57/edec57b70e496d6310c0ba533909acb2.gif"  />
+<img align="center" height="140" fetchpriority="high" loading="auto" style="
+  display: block;
+  -webkit-user-select: none;
+  margin: auto;
+  cursor: zoom-in;
+  background-color: hsl(0, 0%, 90%);
+" src="https://i.pinimg.com/originals/ed/ec/57/edec57b70e496d6310c0ba533909acb2.gif"  />
 
 ###
 
