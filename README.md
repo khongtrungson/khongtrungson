@@ -1,4 +1,4 @@
-<img align="center" height="140" src="https://i.pinimg.com/originals/ed/ec/57/edec57b70e496d6310c0ba533909acb2.gif"  />
+<img align="center" height="140" fetchpriority="high" loading="auto" src="https://i.pinimg.com/originals/ed/ec/57/edec57b70e496d6310c0ba533909acb2.gif"  />
 
 ###
 
@@ -45,7 +45,7 @@
 <!--
 <h3 align="left">🔥   My Stats :</h3>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodeso&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=maurodeso&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  fetchpriority="high" loading="auto" />
 </div>
 -->
 ###
